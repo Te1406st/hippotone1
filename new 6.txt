@@ -1,0 +1,27 @@
+﻿<div itemscope itemtype="http://schema.org/TaxiService">
+  <div itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness">
+  <span a itemprop="image" itemscope itemtype href="https://startaxi.od.ua/img/logo__star.svg"></span>
+    <span itemprop="name">Star Taxi</span>
+	<span itemprop="priceRange">от 35 грн.</span>
+		<span itemprop="address">Одесса</span>
+	<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+        <meta itemprop="ratingValue" content="4.8">
+        <meta itemprop="reviewCount" content="49">
+    </div>
+    <span itemprop="location" itemscope itemtype="http://schema.org/Place">Одесса</span>
+  <span itemprop="telephone">+38(063)9991599</span>
+  <span itemprop="telephone">+38(067)9991499</span>
+  <span itemprop="telephone">+38(048)7773999</span>
+	      <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCircle">
+        <div itemprop="geoMidpoint" itemscope itemtype="http://schema.org/GeoCoordinates">
+          <meta itemprop="latitude" content="46.48238284" />
+          <meta itemprop="longitude" content="30.72324716" />
+        </div>
+        <meta itemprop="geoRadius" content="100" />
+      </div>
+    </div>
+  </div>
+  <meta itemprop="providerMobility" content="dynamic" />
+</div>
+<div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+<meta itemprop="ratingValue" content="4.8">
